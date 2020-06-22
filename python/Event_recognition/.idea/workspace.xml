@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93cffe05-133f-4da6-a3a5-0f7c96f3e46d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VIS" beforeDir="true" />
+      <change beforePath="$PROJECT_DIR$/content.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event_graph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/event_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exapmle1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/north38_trump.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/r_ps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentence_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/strategypage_aps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics.py" beforeDir="false" afterPath="$PROJECT_DIR$/topics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/triple.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/triple_extraction.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bm25_out/bm25.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/work.py" />
+        <option value="$PROJECT_DIR$/ceshi.py" />
+        <option value="$PROJECT_DIR$/sentence_parser.py" />
+        <option value="$PROJECT_DIR$/event_graph.py" />
+        <option value="$PROJECT_DIR$/topics.py" />
+        <option value="$PROJECT_DIR$/shiyan.py" />
+        <option value="$PROJECT_DIR$/t.py" />
+        <option value="$PROJECT_DIR$/mongo.py" />
+        <option value="$PROJECT_DIR$/mongo_1.py" />
+        <option value="$PROJECT_DIR$/neo4j.py" />
+        <option value="$PROJECT_DIR$/neo4j_1.py" />
+        <option value="$PROJECT_DIR$/http_1.py" />
+        <option value="$PROJECT_DIR$/http_0.py" />
+        <option value="$PROJECT_DIR$/name extraction.py" />
+        <option value="$PROJECT_DIR$/apriori.txt" />
+        <option value="$PROJECT_DIR$/output/name_1.txt" />
+        <option value="$PROJECT_DIR$/lianxi.py" />
+        <option value="$PROJECT_DIR$/guanlian.py" />
+        <option value="$PROJECT_DIR$/output/name.txt" />
+        <option value="$PROJECT_DIR$/triple_extraction.py" />
+        <option value="$PROJECT_DIR$/souuso_2.py" />
+        <option value="$PROJECT_DIR$/event recognition.py" />
+        <option value="$PROJECT_DIR$/excel_read.py" />
+        <option value="$PROJECT_DIR$/sousuo_bm25.py" />
+        <option value="$PROJECT_DIR$/sousuo_1.py" />
+        <option value="$PROJECT_DIR$/testrank.py" />
+        <option value="$PROJECT_DIR$/anti_sousuo.py" />
+        <option value="$PROJECT_DIR$/synomous.py" />
+        <option value="$PROJECT_DIR$/input/news.txt" />
+        <option value="$PROJECT_DIR$/other/testrank.py" />
+        <option value="$PROJECT_DIR$/input/content.txt" />
+        <option value="$PROJECT_DIR$/01.txt" />
+        <option value="$PROJECT_DIR$/doc2_vec2.py" />
+        <option value="$PROJECT_DIR$/doc2_vec.py" />
+        <option value="$PROJECT_DIR$/sousuo.py" />
+        <option value="$PROJECT_DIR$/tfidf.py" />
+        <option value="$PROJECT_DIR$/bm25_syn.py" />
+        <option value="$PROJECT_DIR$/anti_bm25_syn.py" />
+        <option value="$PROJECT_DIR$/topic.py" />
+        <option value="$PROJECT_DIR$/bm25.py" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/anti_bm25.py" />
+        <option value="$PROJECT_DIR$/bm25_out/bm25.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1934" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectId" id="1PSDW4sb3AwP4W1YmJvW9SU9c35" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Event recognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Event recognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth0" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth1" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth2" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth3" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth4" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_flatWidth5" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder4" value="4" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeOrder5" value="5" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth0" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth1" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth2" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth3" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth4" value="207" />
+    <property name="FileHistory.org.jetbrains.idea.svn.history.SvnHistoryProvider_treeWidth5" value="207" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/output" />
+      <recent name="$PROJECT_DIR$/input" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.bm25 (1)">
+    <configuration name="anti_bm25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EventTriplesExtraction-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anti_bm25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bm25 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EventTriplesExtraction-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bm25_out" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bm25_out/bm25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bm25" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EventTriplesExtraction-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bm25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bm25_syn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EventTriplesExtraction-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bm25_syn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="causality_extract" type="PythonConfigurationType" factoryName="Python">
+      <module name="CausalityEventGraph" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="false" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="PYTHONPATH" value="/usr/lib/spark/spark-2.4.3-bin-hadoop2.6/python:/usr/bin/python" />
+        <env name="SPARK_HOME" value="/usr/lib/spark/spark-2.4.3-bin-hadoop2.6" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../CausalityEventExtraction-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../CausalityEventExtraction-master/causality_extract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sousuo (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EventTriplesExtraction-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sousuo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t" type="PythonConfigurationType" factoryName="Python">
+      <module name="EventTriplesExtraction-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.anti_bm25" />
+      <item itemvalue="Python.bm25 (1)" />
+      <item itemvalue="Python.bm25" />
+      <item itemvalue="Python.bm25_syn" />
+      <item itemvalue="Python.causality_extract" />
+      <item itemvalue="Python.sousuo (1)" />
+      <item itemvalue="Python.t" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bm25 (1)" />
+        <item itemvalue="Python.bm25_syn" />
+        <item itemvalue="Python.anti_bm25" />
+        <item itemvalue="Python.bm25" />
+        <item itemvalue="Python.sousuo (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration useDefault="false">$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93cffe05-133f-4da6-a3a5-0f7c96f3e46d" name="Default Changelist" comment="" />
+      <created>1564970543994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564970543994</updated>
+      <workItem from="1564970547010" duration="112000" />
+      <workItem from="1564970673543" duration="9400000" />
+      <workItem from="1564987392052" duration="54741000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_sousuo_1_test - 2019.10.23 at 11h 19m 22s.xml">
+      <configuration name="pytest for sousuo_1.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_sousuo_1_test - 2019.10.23 at 11h 19m 25s.xml">
+      <configuration name="pytest for sousuo_1.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_sousuo_1_test - 2019.10.23 at 11h 28m 15s.xml">
+      <configuration name="pytest for sousuo_1.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_sousuo_1_test - 2019.10.23 at 14h 04m 14s.xml">
+      <configuration name="pytest for sousuo_1.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_sousuo_py - 2019.10.31 at 09h 48m 52s.xml">
+      <configuration name="pytest in sousuo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_sousuo_py - 2019.11.04 at 19h 47m 06s.xml">
+      <configuration name="pytest in sousuo.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_sousuo_py - 2019.11.04 at 20h 06m 45s.xml">
+      <configuration name="pytest in sousuo.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="64253000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13219616" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28556594" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19418484" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="6" weight="0.32917964" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3748702" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Mongo Explorer" order="3" weight="0.1401919" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/triple_extraction.py</url>
+          <line>201</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/triple_extraction.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/triple_extraction.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mongo.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/name extraction.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/lianxi.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/other/testrank.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/topic.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="svo" />
+        <watch expression="line" />
+        <watch expression="sim" />
+        <watch expression="result_dict" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$event_graph.coverage" NAME="event_graph Coverage Results" MODIFIED="1564970929688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$work.coverage" NAME="work Coverage Results" MODIFIED="1565247253149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$hello.coverage" NAME="hello Coverage Results" MODIFIED="1565249302818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$topics.coverage" NAME="topics Coverage Results" MODIFIED="1565253278577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$123.coverage" NAME="123 Coverage Results" MODIFIED="1564975042929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$pytest_in_triple_extraction_py.coverage" NAME="pytest in triple_extraction.py Coverage Results" MODIFIED="1564971320506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$triple_extraction.coverage" NAME="triple_extraction Coverage Results" MODIFIED="1565252558870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$pytest_for_triple_extraction_test.coverage" NAME="pytest for triple_extraction.test Coverage Results" MODIFIED="1564970852795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EventTriplesExtraction_master$sentence_parser.coverage" NAME="sentence_parser Coverage Results" MODIFIED="1565075136934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/anti_bm25_out/3.csv" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/3.csv" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/2.csv" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/5.csv" />
+    <entry file="file://$PROJECT_DIR$/other/testrank.py" />
+    <entry file="file://$USER_HOME$/anaconda/pkgs/nltk-3.2.4-py36_0/Lib/site-packages/nltk/app/wordnet_app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="644" column="13" selection-start-line="644" selection-start-column="13" selection-end-line="644" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bm25_out/16.csv" />
+    <entry file="file://$USER_HOME$/anaconda/Lib/site-packages/textrank4zh/TextRank4Keyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anti_bm25_out_syn/1.csv" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/17.csv" />
+    <entry file="file://$USER_HOME$/anaconda/Lib/site-packages/jieba/analyse/tfidf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/Lib/site-packages/xlrd/book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1262">
+          <caret line="471" selection-start-line="471" selection-end-line="471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/Lib/site-packages/jieba/_compat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bm25_out/1.csv" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/1.txt" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/2.json" />
+    <entry file="file://$PROJECT_DIR$/anti_bm25_out/1.csv" />
+    <entry file="file://$PROJECT_DIR$/input/news.txt" />
+    <entry file="file://$PROJECT_DIR$/other/sousuo.py" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/re.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/1.csv" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/108.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/52.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/36.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/35.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/29.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/14.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/2.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/45.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/30.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/1.json" />
+    <entry file="file://$PROJECT_DIR$/anti_tfidf_out/17.json" />
+    <entry file="file://$PROJECT_DIR$/sousuo.py" />
+    <entry file="file://$PROJECT_DIR$/synomous.py" />
+    <entry file="file://$PROJECT_DIR$/input/content.txt" />
+    <entry file="file://$PROJECT_DIR$/01.txt" />
+    <entry file="file://$PROJECT_DIR$/write.txt" />
+    <entry file="file://$PROJECT_DIR$/topic.py" />
+    <entry file="file://$PROJECT_DIR$/doc2_vec2.py" />
+    <entry file="file://$PROJECT_DIR$/doc2_vec.py" />
+    <entry file="file://$PROJECT_DIR$/bm25_out/1.json" />
+    <entry file="file://$PROJECT_DIR$/anti_bm25_out/1.json" />
+    <entry file="file://$PROJECT_DIR$/bm25_syn_out/1.json" />
+    <entry file="file://$PROJECT_DIR$/anti_bm25.py" />
+    <entry file="file://$PROJECT_DIR$/anti_bm25_syn.py" />
+    <entry file="file://$PROJECT_DIR$/bm25.py" />
+    <entry file="file://$PROJECT_DIR$/other/sousuo_1.py" />
+    <entry file="file://$PROJECT_DIR$/tfidf.py" />
+    <entry file="file://$PROJECT_DIR$/bm25_syn.py" />
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bm25_out/bm25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

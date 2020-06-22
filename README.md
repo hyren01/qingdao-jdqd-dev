@@ -1,1 +1,3 @@
-# qingdao-jdqd-dev
+# jdqd-dev
+
+青岛人工智能项目包括；事件预测、事理图谱等

@@ -1,0 +1,11 @@
+host = '0.0.0.0'
+port = 38080
+load_data_from_file = False
+w1 = 0.1
+w2 = 0.5
+w3 = 0.3
+w4 = 0.1
+super_event_col = 1
+sub_event_col = 2
+date_col = 3
+event_priority = 11209

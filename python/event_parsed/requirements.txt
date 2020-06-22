@@ -1,0 +1,4 @@
+flask==1.1.1
+torch==1.4.0+cpu
+allennlp==0.9.0
+en_core_web_sm==2.1.0

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CausalityEventExtraction-master/.idea/CausalityEventGraph.iml" filepath="$PROJECT_DIR$/../CausalityEventExtraction-master/.idea/CausalityEventGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/Chinese-Event-Extraction/.idea/Chinese-Event-Extraction.iml" filepath="$PROJECT_DIR$/../../projects/Chinese-Event-Extraction/.idea/Chinese-Event-Extraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EventTriplesExtraction-master.iml" filepath="$PROJECT_DIR$/.idea/EventTriplesExtraction-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/KBQA-BERT/.idea/KBQA-BERT.iml" filepath="$PROJECT_DIR$/../../projects/KBQA-BERT/.idea/KBQA-BERT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/KEQA_WSDM19-master/.idea/KEQA_WSDM19-master.iml" filepath="$PROJECT_DIR$/../../projects/KEQA_WSDM19-master/.idea/KEQA_WSDM19-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/KeyInfoExtraction/.idea/KeyInfoExtraction.iml" filepath="$PROJECT_DIR$/../../projects/KeyInfoExtraction/.idea/KeyInfoExtraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QASystemOnMedicalKG-master/.idea/QASystemOnMedicalKG-master.iml" filepath="$PROJECT_DIR$/../QASystemOnMedicalKG-master/.idea/QASystemOnMedicalKG-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SequentialEventExtration-master/.idea/SequentialEventGraph.iml" filepath="$PROJECT_DIR$/../SequentialEventExtration-master/.idea/SequentialEventGraph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/bert-kbqa-NLPCC2017/.idea/bert-kbqa-NLPCC2017.iml" filepath="$PROJECT_DIR$/../../projects/bert-kbqa-NLPCC2017/.idea/bert-kbqa-NLPCC2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/bert-utils/.idea/bert-utils.iml" filepath="$PROJECT_DIR$/../../projects/bert-utils/.idea/bert-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/chinese-bert-similarity/.idea/bert_sim.iml" filepath="$PROJECT_DIR$/../../projects/chinese-bert-similarity/.idea/bert_sim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/bert_textMatching/.idea/bert_textMatching.iml" filepath="$PROJECT_DIR$/../../projects/bert_textMatching/.idea/bert_textMatching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/KEQA_WSDM19-master/code/.idea/code.iml" filepath="$PROJECT_DIR$/../../projects/KEQA_WSDM19-master/code/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/kbqa-ar-smcnn-master/.idea/kbqa-ar-smcnn-master.iml" filepath="$PROJECT_DIR$/../../projects/kbqa-ar-smcnn-master/.idea/kbqa-ar-smcnn-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/keyWordsExtraction/.idea/kerWords.iml" filepath="$PROJECT_DIR$/../../projects/keyWordsExtraction/.idea/kerWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../projects/s_news/.idea/s_news.iml" filepath="$PROJECT_DIR$/../../projects/s_news/.idea/s_news.iml" />
+    </modules>
+  </component>
+</project>

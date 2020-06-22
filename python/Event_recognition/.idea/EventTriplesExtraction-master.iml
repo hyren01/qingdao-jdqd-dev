@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="QASystemOnMedicalKG-master" />
+    <orderEntry type="module" module-name="kbqa-ar-smcnn-master" />
+    <orderEntry type="module" module-name="code" />
+    <orderEntry type="module" module-name="KEQA_WSDM19-master" />
+    <orderEntry type="module" module-name="kbqa-ar-smcnn-master" />
+    <orderEntry type="module" module-name="CausalityEventGraph" />
+    <orderEntry type="module" module-name="SequentialEventGraph" />
+    <orderEntry type="module" module-name="bert-utils" />
+    <orderEntry type="module" module-name="bert_textMatching" />
+    <orderEntry type="module" module-name="bert_sim" />
+    <orderEntry type="module" module-name="bert-kbqa-NLPCC2017" />
+    <orderEntry type="module" module-name="kerWords" />
+    <orderEntry type="module" module-name="KeyInfoExtraction" />
+    <orderEntry type="module" module-name="kerWords" />
+    <orderEntry type="module" module-name="KBQA-BERT" />
+    <orderEntry type="module" module-name="Chinese-Event-Extraction" />
+    <orderEntry type="module" module-name="s_news" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="projectConfiguration" value="pytest" />
+    <option name="PROJECT_TEST_RUNNER" value="pytest" />
+  </component>
+</module>
